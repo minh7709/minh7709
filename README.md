@@ -10,10 +10,6 @@ My name is Hoang Minh, I am currently pursuing my Bachelors in System Informatio
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minh7709&theme=radical&layout=compact)](https://github.com/minh7709)
-</br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
@@ -80,7 +76,7 @@ My name is Hoang Minh, I am currently pursuing my Bachelors in System Informatio
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/m1nh-h-q-1ba906237/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/m1nh-h-q-1ba906237/" target="_blank"><img align="center" src="https://www.linkedin.com/pulse/linkedin-comprehensive-guide-bohdan-luka" alt="LinkedIn Profile" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/MdkgksszRo/" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Profile" height="40" width="40" /></a>
 <a href="https://minh7709.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Pages Website" height="40" width="40" /></a>
 
