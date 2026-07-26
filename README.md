@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%23F75C7E&lines=Hello!+I'm+Hoang+Minh!;Software+Engineer;Website+%7C+Application+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%23F75C7E&lines=Hello!+I'm+Hoang+Minh!;System+Information+Engineer;Website+%7C+Application+Developer)](https://git.io/typing-svg)
 
 My name is Hoang Minh, I am currently pursuing my Bachelors in System Information Engineer from [PTITHCM](https://ptithcm.edu.vn/). I am a tech enthusiast & a self learner.
 
@@ -41,6 +41,7 @@ My name is Hoang Minh, I am currently pursuing my Bachelors in System Informatio
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
 </span>
 
 <h4> Operating System </h4>
@@ -76,7 +77,7 @@ My name is Hoang Minh, I am currently pursuing my Bachelors in System Informatio
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/m1nh-h-q-1ba906237/" target="_blank"><img align="center" src="https://www.vhv.rs/viewpic/iwhxJ_linkedin-logo-hd-png-download/" alt="LinkedIn Profile" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/m1nh-h-q-1ba906237/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" alt="LinkedIn Profile" height="40" width="100" /></a>
 <a href="https://leetcode.com/u/MdkgksszRo/" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Profile" height="40" width="40" /></a>
 <a href="https://minh7709.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Pages Website" height="40" width="40" /></a>
 
