@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%23F75C7E&lines=Hello!+I'm+Hoang+Minh!;Software+Engineer;Website+%7C+Application+Developer)](https://git.io/typing-svg)
 
-My name is Hoang Minh, I am currently pursuing my Bachelors in Software Engineer from [PTITHCM](https://ptithcm.edu.vn/). I am a tech enthusiast & a self learner.
+My name is Hoang Minh, I am currently pursuing my Bachelors in System Information Engineer from [PTITHCM](https://ptithcm.edu.vn/). I am a tech enthusiast & a self learner.
 
 ----
 
